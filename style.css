@@ -58,7 +58,8 @@ box-shadow: 3px 3px 5px 6px #b24b26;
 .hover-text {
   color: rgb(0, 0, 0);
   font-family: "Oswald";
-position: relative;top: 20px;
+position: relative;top: 35px;
+width: 10px;
 
   /* Optional: adds a smooth transition effect */
   transition: color 0.3s ease;
@@ -76,5 +77,4 @@ a {
 }
 
 a:hover {
-  color: orange; /* Link color on hover */
-}
+  color: orange; /* Link color o
